@@ -1,0 +1,37 @@
+button {
+    width: 100px;
+}
+
+.center {
+    display: block;
+    margin: auto;
+    width: 45%;
+}
+
+.center-btn {
+    display: block;
+    margin: auto;
+    width: 67%;
+}
+
+.container {
+    width: 500px;
+    border-radius: 5px;
+    background-color: cadetblue;
+    margin-top: 50px;
+    padding: 20px;
+    height: 500px;
+}
+
+.title {
+    text-align: center;
+    font-size: 24px;
+    font-weight: bold;
+    padding-top: 10px;
+    padding-bottom: 20px;
+    color: white;
+}
+
+.response {
+    max-height: 300px;
+}
